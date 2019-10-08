@@ -46,7 +46,7 @@ __all__ = [
     'enable_debug'
 ]
 
-__version__ = '2.6.1-dev'
+__version__ = '42.0'  # use a high number to use our modified version on devpi
 
 
 def enable_debug(fo):
